@@ -5,20 +5,33 @@ require("./lib/ads");
 require("component-responsive-frame/child");
 require("angular");
 
-var app = angular.module("chips-list", []);
+var app = angular.module("chips-list-2017", []);
 
 app.controller("ChipsController", ["$scope", function($scope) {
   $scope.recruits = chipsData;
 
-  $scope.headers = [
-    { title: "Name", short: "lastname" },
-    { title: "Chip", short: "chip" },
-    { title: "Position", short: "position" },
-    { title: "Height", short: "height" },
-    { title: "Weight", short: "weight" },
-    { title: "School", short: "school" },
-    { title: "Commitment", short: "commitment" }
-  ];
+  $scope.headers = [{
+    title: "Name",
+    short: "lastname"
+  }, {
+    title: "Chip",
+    short: "chip"
+  }, {
+    title: "Position",
+    short: "position"
+  }, {
+    title: "Height",
+    short: "height"
+  }, {
+    title: "Weight",
+    short: "weight"
+  }, {
+    title: "School",
+    short: "school"
+  }, {
+    title: "Commitment",
+    short: "commitment"
+  }];
 
   $scope.selected = $scope.headers[1];
   $scope.sortOrder = -1;
@@ -33,8 +46,10 @@ app.controller("ChipsController", ["$scope", function($scope) {
     }
 
     $scope.recruits.sort(function(a, b) {
-      a = a[header.short] || ( header.short == "rivals" ? 999999999 : "ZZZZZZZZZZ" );
-      b = b[header.short] || ( header.short == "rivals" ? 999999999 : "ZZZZZZZZZZ" );
+      a = a[header.short] || (header.short == "rivals" ? 999999999 :
+        "ZZZZZZZZZZ");
+      b = b[header.short] || (header.short == "rivals" ? 999999999 :
+        "ZZZZZZZZZZ");
 
       if (a > b) {
         return 1 * $scope.sortOrder;
