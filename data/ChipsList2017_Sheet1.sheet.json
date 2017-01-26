@@ -1,941 +1,941 @@
 [
   {
-    "First": "Foster",
-    "Last": "Sarell",
-    "Position": "OL",
-    "School": "Graham-Kapowsin",
-    "Height": "6-7",
-    "Weight": 310,
-    "Commitment": "Stanford",
-    "Chip": "Blue"
-  },
-  {
-    "First": "Hunter",
-    "Last": "Bryant",
-    "Position": "TE",
-    "School": "Eastside Catholic",
-    "Height": "6-3",
-    "Weight": 230,
-    "Commitment": "Washington",
-    "Chip": "Blue"
-  },
-  {
-    "First": "Connor",
-    "Last": "Wedington",
-    "Position": "RB",
-    "School": "Sumner",
-    "Height": "6-0",
-    "Weight": 190,
-    "Chip": "Blue"
-  },
-  {
-    "First": "Henry",
-    "Last": "Bainivalu",
-    "Position": "OL",
-    "School": "Skyline",
-    "Height": "6-6",
-    "Weight": 295,
-    "Commitment": "Washington",
-    "Chip": "Blue"
-  },
-  {
-    "First": "Salvon",
-    "Last": "Ahmed",
-    "Position": "RB/DB",
-    "School": "Juanita",
-    "Height": "5-11",
-    "Weight": 186,
-    "Commitment": "Washington",
-    "Chip": "Blue"
-  },
-  {
-    "First": "Abraham",
-    "Last": "Lucas",
-    "Position": "OL",
-    "School": "Archbishop Murphy",
-    "Height": "6-8",
-    "Weight": 260,
-    "Commitment": "Washington State",
-    "Chip": "Red"
-  },
-  {
-    "First": "Quazzel",
-    "Last": "White",
-    "Position": "OL",
-    "School": "Lincoln",
-    "Height": "6-4",
-    "Weight": 305,
-    "Commitment": " ",
-    "Chip": "Red"
-  },
-  {
-    "First": "Joe",
-    "Last": "Tryon",
-    "Position": "DE",
-    "School": "Hazen",
-    "Height": "6-5",
-    "Weight": 230,
-    "Commitment": "Washington",
-    "Chip": "Red"
-  },
-  {
-    "First": "Cade",
-    "Last": "Otton",
-    "Position": "Tumwater",
-    "School": "Tumwater",
-    "Height": "6-5",
-    "Weight": 225,
-    "Commitment": "Washington",
-    "Chip": "Red"
-  },
-  {
-    "First": "Ryan",
-    "Last": "Rehkow",
-    "Position": "P",
-    "School": "Central Valley",
-    "Height": "6-4",
-    "Weight": 190,
-    "Commitment": "BYU",
-    "Chip": "Red"
-  },
-  {
-    "First": "Anfernee",
-    "Last": "Gurley",
-    "Position": "DB",
-    "School": "Archbishop Murphy",
-    "Height": "5-11",
-    "Weight": 185,
-    "Commitment": "Eastern Washington",
-    "Chip": "Red"
-  },
-  {
-    "First": "Jesus",
-    "Last": "Echevarria",
-    "Position": "DT",
-    "School": "Archbishop Murphy",
-    "Height": "6-1",
-    "Weight": 330,
-    "Chip": "Red"
-  },
-  {
-    "First": "Dontae",
-    "Last": "Powell",
-    "Position": "OL",
-    "School": "Richland",
-    "Height": "6-6",
-    "Weight": 305,
-    "Commitment": "Washington State",
-    "Chip": "Red"
-  },
-  {
-    "First": "Ben",
-    "Last": "Moos",
-    "Position": "TE/DE",
-    "School": "Pullman",
-    "Height": "6-4",
-    "Weight": 243,
-    "Commitment": "Utah",
-    "Chip": "Red"
-  },
-  {
-    "First": "Ali",
-    "Last": "Gaye",
-    "Position": "DE",
-    "School": "Edmonds-Woodway",
-    "Height": "6-6",
-    "Weight": 260,
-    "Commitment": "Washington  ",
-    "Chip": "Red"
-  },
-  {
-    "First": "Kelle",
-    "Last": "Sanders",
-    "Position": "DE",
-    "School": "River Ridge",
-    "Height": "6-5",
-    "Weight": 215,
-    "Commitment": "Washington State",
-    "Chip": "Red"
-  },
-  {
-    "First": "Brock",
-    "Last": "Wellsfry",
-    "Position": "DL",
-    "School": "Hanford",
-    "Height": "6-6",
-    "Weight": 280,
-    "Commitment": "Oregon State",
-    "Chip": "Red"
-  },
-  {
-    "First": "Jackson",
-    "Last": "Yost",
-    "Position": "DL/OL",
-    "School": "Archbishop Murphy",
-    "Height": "6-3",
-    "Weight": 274,
-    "Commitment": "Dartmouth",
-    "Chip": "Red"
-  },
-  {
-    "First": "Caleb",
-    "Last": "Perry",
-    "Position": "RB/CB",
-    "School": "King's",
-    "Height": "5-10",
-    "Weight": 175,
-    "Commitment": "Washington State",
-    "Chip": "White"
-  },
-  {
-    "First": "Jack",
-    "Last": "Colletto",
-    "Position": "QB",
-    "School": "Camas",
-    "Height": "6-3",
-    "Weight": 215,
-    "Chip": "White"
-  },
-  {
-    "First": "JJ",
-    "Last": "Jerome",
-    "Position": "RB ",
-    "School": "Monroe",
-    "Height": "6-0",
-    "Weight": 210,
-    "Chip": "White"
-  },
-  {
-    "First": "Brody",
-    "Last": "McKnight",
-    "Position": "OL",
-    "School": "Eastside Catholic",
-    "Height": "6-3",
-    "Weight": 300,
-    "Commitment": "Montana State",
-    "Chip": "White"
-  },
-  {
-    "First": "Brigham",
-    "Last": "Whitby",
-    "Position": "DT",
-    "School": "Richland",
-    "Height": "6-0",
-    "Weight": 280,
-    "Chip": "White"
-  },
-  {
-    "First": "Doug",
-    "Last": "Russell",
-    "Position": "DT",
-    "School": "O'Dea",
-    "Height": "6-5",
-    "Weight": 270,
-    "Chip": "White"
-  },
-  {
-    "First": "Michael",
-    "Last": "Matthews",
-    "Position": "LB",
-    "School": "Camas",
-    "Height": "6-2",
-    "Weight": 205,
-    "Commitment": "Montana",
-    "Chip": "White"
-  },
-  {
-    "First": "Darreon",
-    "Last": "Moore",
-    "Position": "DB",
-    "School": "Kamiakin",
-    "Height": "5-11",
-    "Weight": 175,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Mack",
-    "Last": "Minnehan",
-    "Position": "DB",
-    "School": "Woodinville",
-    "Height": "6-0",
-    "Weight": 185,
-    "Chip": "White"
-  },
-  {
-    "First": "Ryan",
-    "Last": "Henderson",
-    "Position": "K",
-    "School": "Archbishop Murphy",
-    "Height": "6-0",
-    "Weight": 205,
-    "Chip": "White"
-  },
-  {
-    "First": "Derek",
-    "Last": "Beers",
-    "Position": "OL",
-    "School": "Woodinville",
-    "Height": "6-0",
-    "Weight": 265,
-    "Chip": "White"
-  },
-  {
-    "First": "Zach",
-    "Last": "England",
-    "Position": "OL",
-    "School": "Bellevue",
-    "Height": "5-11",
-    "Weight": 225,
-    "Chip": "White"
-  },
-  {
-    "First": "Ben",
-    "Last": "Gaoteote",
-    "Position": "P",
-    "School": "Kennedy Catholic",
-    "Height": "6-1",
-    "Weight": 175,
-    "Chip": "White"
-  },
-  {
-    "First": "Windy",
-    "Last": "Isaia",
-    "Position": "DL",
-    "School": "Mariner",
-    "Height": "6-1",
-    "Weight": 312,
-    "Commitment": "Central Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Brandon",
-    "Last": "Kelly",
-    "Position": "DL",
-    "School": "Kentlake",
-    "Height": "6-3",
-    "Weight": 236,
-    "Chip": "White"
-  },
-  {
-    "First": "Hunter",
-    "Last": "Franco",
-    "Position": "LB",
-    "School": "O'Dea",
-    "Height": "5-10",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Dean",
-    "Last": "Sise",
-    "Position": "LB",
-    "School": "Juanita",
-    "Height": "6-2",
-    "Weight": 185,
-    "Chip": "White"
-  },
-  {
-    "First": "Alex",
-    "Last": "Diegel",
-    "Position": "LB",
-    "School": "Skyline",
-    "Height": "6-2",
-    "Weight": 210,
-    "Chip": "White"
-  },
-  {
-    "First": "Bradley",
-    "Last": "Kim",
-    "Position": "DB",
-    "School": "Skyline",
-    "Height": "6-0",
-    "Weight": 210,
-    "Commitment": "Air Force",
-    "Chip": "White"
-  },
-  {
-    "First": "Hunter",
-    "Last": "Eckstrom",
-    "Position": "WR",
-    "School": "Lake Stevens",
-    "Height": "6-0",
-    "Weight": 185,
-    "Commitment": "Central Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "JJ",
-    "Last": "Young",
-    "Position": "ATH",
-    "School": "Mount Rainier",
-    "Height": "6-0",
-    "Weight": 180,
-    "Chip": "White"
-  },
-  {
-    "First": "Bennett",
-    "Last": "Dondoyano",
-    "Position": "WR/CB",
-    "School": "Lakeside",
-    "Height": "5-11",
-    "Weight": 175,
-    "Chip": "White"
-  },
-  {
-    "First": "Zander",
-    "Last": "Bailey",
-    "Position": "WR/LB",
-    "School": "Lakeside",
-    "Height": "6-1",
-    "Weight": 210,
-    "Chip": "White"
-  },
-  {
-    "First": "Jared",
-    "Last": "Thurber",
-    "Position": "WR",
-    "School": "Kennedy Catholic",
-    "Height": "6-4",
-    "Weight": 180,
-    "Chip": "White"
-  },
-  {
-    "First": "Trevor",
-    "Last": "Hoffman",
-    "Position": "WR/LB",
-    "School": "Kennedy Catholic",
-    "Height": "6-4",
-    "Weight": 187,
-    "Chip": "White"
-  },
-  {
-    "First": "Collin",
-    "Last": "Montez",
-    "Position": "RB/DB",
-    "School": "Archbishop Murphy",
-    "Height": "6-1",
-    "Weight": 200,
-    "Commitment": "Washington State (baseball)",
-    "Chip": "White"
-  },
-  {
-    "First": "Connor",
-    "Last": "Johnson",
-    "Position": "QB",
-    "School": "Archbishop Murphy",
-    "Height": "6-2",
-    "Weight": 215,
-    "Chip": "White"
-  },
-  {
-    "First": "Markus",
-    "Last": "Sullivan",
-    "Position": "LB",
-    "School": "Jackson",
-    "Height": "6-4",
-    "Weight": 210,
-    "Commitment": "Portland State",
-    "Chip": "White"
-  },
-  {
-    "First": "Princeton",
-    "Last": "Lollar",
-    "Position": "FB",
-    "School": "Oak Harbor",
-    "Height": "6-1",
-    "Weight": 240,
-    "Commitment": "Northern Arizona",
-    "Chip": "White"
-  },
-  {
-    "First": "Matt",
-    "Last": "Shook",
-    "Position": "OT",
-    "School": "Graham-Kapowsin",
-    "Height": "6-4",
-    "Weight": 270,
-    "Chip": "White"
-  },
-  {
-    "First": "Tonny",
-    "Last": "Esquivel",
-    "Position": "RB/DB",
-    "School": "Wenatchee",
-    "Height": "5-8",
-    "Weight": 155,
-    "Chip": "White"
-  },
-  {
-    "First": "Brian",
-    "Last": "Greene",
-    "Position": "OL",
-    "School": "Eisenhower",
-    "Height": "6-4",
-    "Weight": 315,
-    "Chip": "White"
-  },
-  {
-    "First": "Ben",
-    "Last": "Metsker",
-    "Position": "SS",
-    "School": "Woodinville",
-    "Height": "6-1",
-    "Weight": 190,
-    "Chip": "White"
-  },
-  {
-    "First": "Michael",
-    "Last": "Roth",
-    "Position": "ATH",
-    "School": "Woodinville",
-    "Height": "6-1",
-    "Weight": 185,
-    "Chip": "White"
-  },
-  {
-    "First": "Michael",
-    "Last": "Matthews",
-    "Position": "LB",
-    "School": "Camas",
-    "Height": "6-2",
-    "Weight": 212,
-    "Commitment": "Montana",
-    "Chip": "White"
-  },
-  {
-    "First": "Ben",
-    "Last": "Howard",
-    "Position": "QB",
-    "School": "Eastlake",
-    "Height": "6-1",
-    "Weight": 165,
-    "Chip": "White"
-  },
-  {
-    "First": "Eddie",
-    "Last": "Edwards IV",
-    "Position": "KR",
-    "School": "Kentlake",
-    "Height": "5-5",
-    "Weight": 165,
-    "Chip": "White"
-  },
-  {
-    "First": "Christian",
-    "Last": "Duenas-Palaitia",
-    "Position": "OL",
-    "School": "Kentwood",
-    "Height": "6-0",
-    "Weight": 240,
-    "Chip": "White"
-  },
-  {
-    "First": "Devin",
-    "Last": "Ridge",
-    "Position": "LB",
-    "School": "Kentwood",
-    "Height": "6-1",
-    "Weight": 205,
-    "Chip": "White"
-  },
-  {
-    "First": "Lincoln",
-    "Last": "Liulama-Mitchell",
-    "Position": "WR/DE",
-    "School": "Todd Beamer",
-    "Height": "6-3",
-    "Weight": 215,
-    "Chip": "White"
-  },
-  {
-    "First": "Scott",
-    "Last": "Gunther",
-    "Position": "RB/CB",
-    "School": "Olympia",
-    "Height": "5-11",
-    "Weight": 190,
-    "Chip": "White"
-  },
-  {
-    "First": "Nathaniel",
-    "Last": "Holcomb",
-    "Position": "QB",
-    "School": "Puyallup",
-    "Height": "6-1",
-    "Weight": 195,
-    "Chip": "White"
-  },
-  {
-    "First": "Malakai",
-    "Last": "Fifita",
-    "Position": "DL/OL",
-    "School": "Glacier Peak",
-    "Height": "6-2",
-    "Weight": 280,
-    "Commitment": "Air Force",
-    "Chip": "White"
-  },
-  {
-    "First": "Joe",
-    "Last": "Kamp",
-    "Position": "DE",
-    "School": "Kamiakin",
-    "Height": "5-11",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Terrance",
-    "Last": "Bloss",
-    "Position": "TE/LB",
-    "School": "Cascade",
-    "Height": "6-2",
-    "Weight": 205,
-    "Chip": "White"
-  },
-  {
-    "First": "Andre",
-    "Last": "Scheer",
-    "Position": "QB/LB",
-    "School": "Mountain View",
-    "Height": "6-0",
-    "Weight": 184,
-    "Chip": "White"
-  },
-  {
-    "First": "Colton",
-    "Last": "Johnson",
-    "Position": "OL/DL",
-    "School": "Kelso",
-    "Height": "6-3",
-    "Weight": 260,
-    "Chip": "White"
-  },
-  {
-    "First": "Naoki",
-    "Last": "Harmer",
-    "Position": "WR/S",
-    "School": "Interlake",
-    "Height": "5-10",
-    "Weight": 165,
-    "Chip": "White"
-  },
-  {
-    "First": "Caleb",
-    "Last": "Davis",
-    "Position": "OL/DL",
-    "School": "Bonney Lake",
-    "Height": "6-4",
-    "Weight": 270,
-    "Chip": "White"
-  },
-  {
-    "First": "Joey",
-    "Last": "Sinclair",
-    "Position": "QB",
-    "School": "Lincoln",
-    "Height": "5-11",
-    "Weight": 170,
-    "Chip": "White"
-  },
-  {
-    "First": "Amir",
-    "Last": "Matheney",
-    "Position": "DT",
-    "School": "Olympia",
-    "Height": "6-2",
-    "Weight": 297,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Caleb",
-    "Last": "Lindsay",
-    "Position": "LB/TE",
-    "School": "Lakes",
-    "Height": "6-2",
-    "Weight": 217,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Daeon",
-    "Last": "Hudson",
-    "Position": "LB/RB",
-    "School": "Lakes",
-    "Height": "6-0",
-    "Weight": 201,
-    "Chip": "White"
-  },
-  {
-    "First": "Hunter",
-    "Last": "Haskins",
-    "Position": "WR/S",
-    "School": "Bonney Lake",
-    "Height": "5-10",
-    "Weight": 175,
-    "Chip": "White"
-  },
-  {
-    "First": "Jason",
-    "Last": "Chambers",
-    "Position": "RB",
-    "School": "Stadium",
-    "Height": "5-8",
-    "Weight": 168,
-    "Commitment": "Central Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Anthony",
-    "Last": "Hathaway",
-    "Position": "RB/LB",
-    "School": "Timberline",
-    "Height": "5-8",
-    "Weight": 198,
-    "Chip": "White"
-  },
-  {
-    "First": "Kenny",
-    "Last": "Easton",
-    "Position": "RB/LB",
-    "School": "Peninsula",
-    "Height": "6-1",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Blake",
-    "Last": "Cantu",
-    "Position": "RB/SS",
-    "School": "Peninsula",
-    "Height": "6-1",
-    "Weight": 195,
-    "Chip": "White"
-  },
-  {
-    "First": "David",
-    "Last": "Ainuu",
-    "Position": "OL/DL",
-    "School": "Capital",
-    "Height": "5-11",
-    "Weight": 255,
-    "Chip": "White"
-  },
-  {
-    "First": "Ben",
-    "Last": "Broselle",
-    "Position": "LB",
-    "School": "Ferndale",
-    "Height": "6-1",
-    "Weight": 192,
-    "Chip": "White"
-  },
-  {
-    "First": "Justice",
-    "Last": "Powell",
-    "Position": "DB/RB",
-    "School": "Ferndale",
-    "Height": "6-2",
-    "Weight": 185,
-    "Chip": "White"
-  },
-  {
-    "First": "Ben",
-    "Last": "Peterson",
-    "Position": "SS",
-    "School": "Squalicum",
-    "Height": "5-9",
-    "Weight": 171,
-    "Chip": "White"
-  },
-  {
-    "First": "Damek",
-    "Last": "Mitchell",
-    "Position": "RB",
-    "School": "Squalicum",
-    "Height": "5-11",
-    "Weight": 175,
-    "Chip": "White"
-  },
-  {
-    "First": "Wyatt",
-    "Last": "Musser",
-    "Position": "OL",
-    "School": "Kamiakin",
-    "Height": "6-5",
-    "Weight": 275,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Cody",
-    "Last": "Kanouse",
-    "Position": "OL",
-    "School": "Peninsula",
-    "Height": "6-7",
-    "Weight": 290,
-    "Chip": "White"
-  },
-  {
-    "First": "Leighton",
-    "Last": "Winterhawk",
-    "Position": "OL/DL",
-    "School": "Ferndale",
-    "Height": "6-3",
-    "Weight": 256,
-    "Chip": "White"
-  },
-  {
-    "First": "Josh",
-    "Last": "Johnston",
-    "Position": "WR/DB",
-    "School": "Snohomish",
-    "Height": "6-2",
-    "Weight": 185,
-    "Chip": "White"
-  },
-  {
-    "First": "Jack",
-    "Last": "Van Dyke",
-    "Position": "K",
-    "School": "King's",
-    "Height": "6-1",
-    "Weight": 175,
-    "Chip": "White"
-  },
-  {
-    "First": "Peter",
-    "Last": "Kuhn",
-    "Position": "WR/DB",
-    "School": "Selah",
-    "Height": "6-4",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Kolby",
-    "Last": "Swift",
-    "Position": "LB",
-    "School": "Prosser",
-    "Height": "6-0",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Andrew",
-    "Last": "Boston",
-    "Position": "WR",
-    "School": "Emerald Ridge",
-    "Height": "6-3",
-    "Weight": 180,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Marques",
-    "Last": "Hampton Jr,",
-    "Position": "WR",
-    "School": "Steilacoom",
-    "Height": "5-11",
-    "Weight": 188,
-    "Commitment": "Eastern Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "Christian",
-    "Last": "Moore",
-    "Position": "QB",
-    "School": "Bellarmine Prep",
-    "Height": "6-5",
-    "Weight": 212,
-    "Commitment": "Central Washington",
-    "Chip": "White"
-  },
-  {
-    "First": "John",
-    "Last": "Blasco Jr.",
-    "Position": "OL",
-    "School": "Stadium",
-    "Height": "6-5",
-    "Weight": 316,
-    "Commitment": "Colorado State",
-    "Chip": "White"
-  },
-  {
-    "First": "Anthony",
-    "Last": "Leiato",
-    "Position": "DB",
-    "School": "Steilacoom",
-    "Height": "6-0",
-    "Weight": 175,
-    "Commitment": " ",
-    "Chip": "White"
-  },
-  {
-    "First": "Frederick",
-    "Last": "Cooper",
-    "Position": "RB",
-    "School": "O'Dea",
-    "Height": "6-0",
-    "Weight": 200,
-    "Chip": "White"
-  },
-  {
-    "First": "Caleb",
-    "Last": "Weber",
-    "Position": "LB",
-    "School": "Chiawana",
-    "Height": "6-2",
-    "Weight": 228,
-    "Chip": "White"
-  },
-  {
-    "First": "Tre'vonne",
-    "Last": "Dorfner",
-    "Position": "RB/DB",
-    "School": "River Ridge",
-    "Height": "5-11",
-    "Weight": 180,
-    "Commitment": "Wyoming",
-    "Chip": "White"
-  },
-  {
-    "First": "Armani",
-    "Last": "Marsh",
-    "Position": "CB",
-    "School": "Gonzaga Prep",
-    "Height": "5-8",
-    "Weight": 176,
-    "Chip": "White"
-  },
-  {
-    "First": "Skyler",
-    "Last": "Martin",
-    "Position": "DE",
-    "School": "Skyview",
-    "Height": "6-5",
-    "Weight": 235,
-    "Commitment": "Montana",
-    "Chip": "White"
-  },
-  {
-    "First": "Kaden",
-    "Last": "Jenks",
-    "Position": "QB",
-    "School": "Royal",
-    "Height": "6-2",
-    "Weight": 208,
-    "Chip": "White"
-  },
-  {
-    "First": "Auston",
-    "Last": "Downs",
-    "Position": "OL",
-    "School": "Moses Lake",
-    "Height": "6-3",
-    "Weight": 274,
-    "Chip": "White"
+    "firstname": "Foster",
+    "lastname": "Sarell",
+    "position": "OL",
+    "school": "Graham-Kapowsin",
+    "height": "6-7",
+    "weight": 310,
+    "commitment": "Stanford",
+    "chip": "Blue"
+  },
+  {
+    "firstname": "Hunter",
+    "lastname": "Bryant",
+    "position": "TE",
+    "school": "Eastside Catholic",
+    "height": "6-3",
+    "weight": 230,
+    "commitment": "Washington",
+    "chip": "Blue"
+  },
+  {
+    "firstname": "Connor",
+    "lastname": "Wedington",
+    "position": "RB",
+    "school": "Sumner",
+    "height": "6-0",
+    "weight": 190,
+    "chip": "Blue"
+  },
+  {
+    "firstname": "Henry",
+    "lastname": "Bainivalu",
+    "position": "OL",
+    "school": "Skyline",
+    "height": "6-6",
+    "weight": 295,
+    "commitment": "Washington",
+    "chip": "Blue"
+  },
+  {
+    "firstname": "Salvon",
+    "lastname": "Ahmed",
+    "position": "RB/DB",
+    "school": "Juanita",
+    "height": "5-11",
+    "weight": 186,
+    "commitment": "Washington",
+    "chip": "Blue"
+  },
+  {
+    "firstname": "Abraham",
+    "lastname": "Lucas",
+    "position": "OL",
+    "school": "Archbishop Murphy",
+    "height": "6-8",
+    "weight": 260,
+    "commitment": "Washington State",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Quazzel",
+    "lastname": "White",
+    "position": "OL",
+    "school": "Lincoln",
+    "height": "6-4",
+    "weight": 305,
+    "commitment": " ",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Joe",
+    "lastname": "Tryon",
+    "position": "DE",
+    "school": "Hazen",
+    "height": "6-5",
+    "weight": 230,
+    "commitment": "Washington",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Cade",
+    "lastname": "Otton",
+    "position": "Tumwater",
+    "school": "Tumwater",
+    "height": "6-5",
+    "weight": 225,
+    "commitment": "Washington",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "Rehkow",
+    "position": "P",
+    "school": "Central Valley",
+    "height": "6-4",
+    "weight": 190,
+    "commitment": "BYU",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Anfernee",
+    "lastname": "Gurley",
+    "position": "DB",
+    "school": "Archbishop Murphy",
+    "height": "5-11",
+    "weight": 185,
+    "commitment": "Eastern Washington",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Jesus",
+    "lastname": "Echevarria",
+    "position": "DT",
+    "school": "Archbishop Murphy",
+    "height": "6-1",
+    "weight": 330,
+    "chip": "Red"
+  },
+  {
+    "firstname": "Dontae",
+    "lastname": "Powell",
+    "position": "OL",
+    "school": "Richland",
+    "height": "6-6",
+    "weight": 305,
+    "commitment": "Washington State",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Moos",
+    "position": "TE/DE",
+    "school": "Pullman",
+    "height": "6-4",
+    "weight": 243,
+    "commitment": "Utah",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Ali",
+    "lastname": "Gaye",
+    "position": "DE",
+    "school": "Edmonds-Woodway",
+    "height": "6-6",
+    "weight": 260,
+    "commitment": "Washington  ",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Kelle",
+    "lastname": "Sanders",
+    "position": "DE",
+    "school": "River Ridge",
+    "height": "6-5",
+    "weight": 215,
+    "commitment": "Washington State",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Brock",
+    "lastname": "Wellsfry",
+    "position": "DL",
+    "school": "Hanford",
+    "height": "6-6",
+    "weight": 280,
+    "commitment": "Oregon State",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Jackson",
+    "lastname": "Yost",
+    "position": "DL/OL",
+    "school": "Archbishop Murphy",
+    "height": "6-3",
+    "weight": 274,
+    "commitment": "Dartmouth",
+    "chip": "Red"
+  },
+  {
+    "firstname": "Caleb",
+    "lastname": "Perry",
+    "position": "RB/CB",
+    "school": "King's",
+    "height": "5-10",
+    "weight": 175,
+    "commitment": "Washington State",
+    "chip": "White"
+  },
+  {
+    "firstname": "Jack",
+    "lastname": "Colletto",
+    "position": "QB",
+    "school": "Camas",
+    "height": "6-3",
+    "weight": 215,
+    "chip": "White"
+  },
+  {
+    "firstname": "JJ",
+    "lastname": "Jerome",
+    "position": "RB ",
+    "school": "Monroe",
+    "height": "6-0",
+    "weight": 210,
+    "chip": "White"
+  },
+  {
+    "firstname": "Brody",
+    "lastname": "McKnight",
+    "position": "OL",
+    "school": "Eastside Catholic",
+    "height": "6-3",
+    "weight": 300,
+    "commitment": "Montana State",
+    "chip": "White"
+  },
+  {
+    "firstname": "Brigham",
+    "lastname": "Whitby",
+    "position": "DT",
+    "school": "Richland",
+    "height": "6-0",
+    "weight": 280,
+    "chip": "White"
+  },
+  {
+    "firstname": "Doug",
+    "lastname": "Russell",
+    "position": "DT",
+    "school": "O'Dea",
+    "height": "6-5",
+    "weight": 270,
+    "chip": "White"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Matthews",
+    "position": "LB",
+    "school": "Camas",
+    "height": "6-2",
+    "weight": 205,
+    "commitment": "Montana",
+    "chip": "White"
+  },
+  {
+    "firstname": "Darreon",
+    "lastname": "Moore",
+    "position": "DB",
+    "school": "Kamiakin",
+    "height": "5-11",
+    "weight": 175,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Mack",
+    "lastname": "Minnehan",
+    "position": "DB",
+    "school": "Woodinville",
+    "height": "6-0",
+    "weight": 185,
+    "chip": "White"
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "Henderson",
+    "position": "K",
+    "school": "Archbishop Murphy",
+    "height": "6-0",
+    "weight": 205,
+    "chip": "White"
+  },
+  {
+    "firstname": "Derek",
+    "lastname": "Beers",
+    "position": "OL",
+    "school": "Woodinville",
+    "height": "6-0",
+    "weight": 265,
+    "chip": "White"
+  },
+  {
+    "firstname": "Zach",
+    "lastname": "England",
+    "position": "OL",
+    "school": "Bellevue",
+    "height": "5-11",
+    "weight": 225,
+    "chip": "White"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Gaoteote",
+    "position": "P",
+    "school": "Kennedy Catholic",
+    "height": "6-1",
+    "weight": 175,
+    "chip": "White"
+  },
+  {
+    "firstname": "Windy",
+    "lastname": "Isaia",
+    "position": "DL",
+    "school": "Mariner",
+    "height": "6-1",
+    "weight": 312,
+    "commitment": "Central Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Brandon",
+    "lastname": "Kelly",
+    "position": "DL",
+    "school": "Kentlake",
+    "height": "6-3",
+    "weight": 236,
+    "chip": "White"
+  },
+  {
+    "firstname": "Hunter",
+    "lastname": "Franco",
+    "position": "LB",
+    "school": "O'Dea",
+    "height": "5-10",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Dean",
+    "lastname": "Sise",
+    "position": "LB",
+    "school": "Juanita",
+    "height": "6-2",
+    "weight": 185,
+    "chip": "White"
+  },
+  {
+    "firstname": "Alex",
+    "lastname": "Diegel",
+    "position": "LB",
+    "school": "Skyline",
+    "height": "6-2",
+    "weight": 210,
+    "chip": "White"
+  },
+  {
+    "firstname": "Bradley",
+    "lastname": "Kim",
+    "position": "DB",
+    "school": "Skyline",
+    "height": "6-0",
+    "weight": 210,
+    "commitment": "Air Force",
+    "chip": "White"
+  },
+  {
+    "firstname": "Hunter",
+    "lastname": "Eckstrom",
+    "position": "WR",
+    "school": "Lake Stevens",
+    "height": "6-0",
+    "weight": 185,
+    "commitment": "Central Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "JJ",
+    "lastname": "Young",
+    "position": "ATH",
+    "school": "Mount Rainier",
+    "height": "6-0",
+    "weight": 180,
+    "chip": "White"
+  },
+  {
+    "firstname": "Bennett",
+    "lastname": "Dondoyano",
+    "position": "WR/CB",
+    "school": "Lakeside",
+    "height": "5-11",
+    "weight": 175,
+    "chip": "White"
+  },
+  {
+    "firstname": "Zander",
+    "lastname": "Bailey",
+    "position": "WR/LB",
+    "school": "Lakeside",
+    "height": "6-1",
+    "weight": 210,
+    "chip": "White"
+  },
+  {
+    "firstname": "Jared",
+    "lastname": "Thurber",
+    "position": "WR",
+    "school": "Kennedy Catholic",
+    "height": "6-4",
+    "weight": 180,
+    "chip": "White"
+  },
+  {
+    "firstname": "Trevor",
+    "lastname": "Hoffman",
+    "position": "WR/LB",
+    "school": "Kennedy Catholic",
+    "height": "6-4",
+    "weight": 187,
+    "chip": "White"
+  },
+  {
+    "firstname": "Collin",
+    "lastname": "Montez",
+    "position": "RB/DB",
+    "school": "Archbishop Murphy",
+    "height": "6-1",
+    "weight": 200,
+    "commitment": "Washington State (baseball)",
+    "chip": "White"
+  },
+  {
+    "firstname": "Connor",
+    "lastname": "Johnson",
+    "position": "QB",
+    "school": "Archbishop Murphy",
+    "height": "6-2",
+    "weight": 215,
+    "chip": "White"
+  },
+  {
+    "firstname": "Markus",
+    "lastname": "Sullivan",
+    "position": "LB",
+    "school": "Jackson",
+    "height": "6-4",
+    "weight": 210,
+    "commitment": "Portland State",
+    "chip": "White"
+  },
+  {
+    "firstname": "Princeton",
+    "lastname": "Lollar",
+    "position": "FB",
+    "school": "Oak Harbor",
+    "height": "6-1",
+    "weight": 240,
+    "commitment": "Northern Arizona",
+    "chip": "White"
+  },
+  {
+    "firstname": "Matt",
+    "lastname": "Shook",
+    "position": "OT",
+    "school": "Graham-Kapowsin",
+    "height": "6-4",
+    "weight": 270,
+    "chip": "White"
+  },
+  {
+    "firstname": "Tonny",
+    "lastname": "Esquivel",
+    "position": "RB/DB",
+    "school": "Wenatchee",
+    "height": "5-8",
+    "weight": 155,
+    "chip": "White"
+  },
+  {
+    "firstname": "Brian",
+    "lastname": "Greene",
+    "position": "OL",
+    "school": "Eisenhower",
+    "height": "6-4",
+    "weight": 315,
+    "chip": "White"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Metsker",
+    "position": "SS",
+    "school": "Woodinville",
+    "height": "6-1",
+    "weight": 190,
+    "chip": "White"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Roth",
+    "position": "ATH",
+    "school": "Woodinville",
+    "height": "6-1",
+    "weight": 185,
+    "chip": "White"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Matthews",
+    "position": "LB",
+    "school": "Camas",
+    "height": "6-2",
+    "weight": 212,
+    "commitment": "Montana",
+    "chip": "White"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Howard",
+    "position": "QB",
+    "school": "Eastlake",
+    "height": "6-1",
+    "weight": 165,
+    "chip": "White"
+  },
+  {
+    "firstname": "Eddie",
+    "lastname": "Edwards IV",
+    "position": "KR",
+    "school": "Kentlake",
+    "height": "5-5",
+    "weight": 165,
+    "chip": "White"
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Duenas-Palaitia",
+    "position": "OL",
+    "school": "Kentwood",
+    "height": "6-0",
+    "weight": 240,
+    "chip": "White"
+  },
+  {
+    "firstname": "Devin",
+    "lastname": "Ridge",
+    "position": "LB",
+    "school": "Kentwood",
+    "height": "6-1",
+    "weight": 205,
+    "chip": "White"
+  },
+  {
+    "firstname": "Lincoln",
+    "lastname": "Liulama-Mitchell",
+    "position": "WR/DE",
+    "school": "Todd Beamer",
+    "height": "6-3",
+    "weight": 215,
+    "chip": "White"
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Gunther",
+    "position": "RB/CB",
+    "school": "Olympia",
+    "height": "5-11",
+    "weight": 190,
+    "chip": "White"
+  },
+  {
+    "firstname": "Nathaniel",
+    "lastname": "Holcomb",
+    "position": "QB",
+    "school": "Puyallup",
+    "height": "6-1",
+    "weight": 195,
+    "chip": "White"
+  },
+  {
+    "firstname": "Malakai",
+    "lastname": "Fifita",
+    "position": "DL/OL",
+    "school": "Glacier Peak",
+    "height": "6-2",
+    "weight": 280,
+    "commitment": "Air Force",
+    "chip": "White"
+  },
+  {
+    "firstname": "Joe",
+    "lastname": "Kamp",
+    "position": "DE",
+    "school": "Kamiakin",
+    "height": "5-11",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Terrance",
+    "lastname": "Bloss",
+    "position": "TE/LB",
+    "school": "Cascade",
+    "height": "6-2",
+    "weight": 205,
+    "chip": "White"
+  },
+  {
+    "firstname": "Andre",
+    "lastname": "Scheer",
+    "position": "QB/LB",
+    "school": "Mountain View",
+    "height": "6-0",
+    "weight": 184,
+    "chip": "White"
+  },
+  {
+    "firstname": "Colton",
+    "lastname": "Johnson",
+    "position": "OL/DL",
+    "school": "Kelso",
+    "height": "6-3",
+    "weight": 260,
+    "chip": "White"
+  },
+  {
+    "firstname": "Naoki",
+    "lastname": "Harmer",
+    "position": "WR/S",
+    "school": "Interlake",
+    "height": "5-10",
+    "weight": 165,
+    "chip": "White"
+  },
+  {
+    "firstname": "Caleb",
+    "lastname": "Davis",
+    "position": "OL/DL",
+    "school": "Bonney Lake",
+    "height": "6-4",
+    "weight": 270,
+    "chip": "White"
+  },
+  {
+    "firstname": "Joey",
+    "lastname": "Sinclair",
+    "position": "QB",
+    "school": "Lincoln",
+    "height": "5-11",
+    "weight": 170,
+    "chip": "White"
+  },
+  {
+    "firstname": "Amir",
+    "lastname": "Matheney",
+    "position": "DT",
+    "school": "Olympia",
+    "height": "6-2",
+    "weight": 297,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Caleb",
+    "lastname": "Lindsay",
+    "position": "LB/TE",
+    "school": "Lakes",
+    "height": "6-2",
+    "weight": 217,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Daeon",
+    "lastname": "Hudson",
+    "position": "LB/RB",
+    "school": "Lakes",
+    "height": "6-0",
+    "weight": 201,
+    "chip": "White"
+  },
+  {
+    "firstname": "Hunter",
+    "lastname": "Haskins",
+    "position": "WR/S",
+    "school": "Bonney Lake",
+    "height": "5-10",
+    "weight": 175,
+    "chip": "White"
+  },
+  {
+    "firstname": "Jason",
+    "lastname": "Chambers",
+    "position": "RB",
+    "school": "Stadium",
+    "height": "5-8",
+    "weight": 168,
+    "commitment": "Central Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Anthony",
+    "lastname": "Hathaway",
+    "position": "RB/LB",
+    "school": "Timberline",
+    "height": "5-8",
+    "weight": 198,
+    "chip": "White"
+  },
+  {
+    "firstname": "Kenny",
+    "lastname": "Easton",
+    "position": "RB/LB",
+    "school": "Peninsula",
+    "height": "6-1",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Blake",
+    "lastname": "Cantu",
+    "position": "RB/SS",
+    "school": "Peninsula",
+    "height": "6-1",
+    "weight": 195,
+    "chip": "White"
+  },
+  {
+    "firstname": "David",
+    "lastname": "Ainuu",
+    "position": "OL/DL",
+    "school": "Capital",
+    "height": "5-11",
+    "weight": 255,
+    "chip": "White"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Broselle",
+    "position": "LB",
+    "school": "Ferndale",
+    "height": "6-1",
+    "weight": 192,
+    "chip": "White"
+  },
+  {
+    "firstname": "Justice",
+    "lastname": "Powell",
+    "position": "DB/RB",
+    "school": "Ferndale",
+    "height": "6-2",
+    "weight": 185,
+    "chip": "White"
+  },
+  {
+    "firstname": "Ben",
+    "lastname": "Peterson",
+    "position": "SS",
+    "school": "Squalicum",
+    "height": "5-9",
+    "weight": 171,
+    "chip": "White"
+  },
+  {
+    "firstname": "Damek",
+    "lastname": "Mitchell",
+    "position": "RB",
+    "school": "Squalicum",
+    "height": "5-11",
+    "weight": 175,
+    "chip": "White"
+  },
+  {
+    "firstname": "Wyatt",
+    "lastname": "Musser",
+    "position": "OL",
+    "school": "Kamiakin",
+    "height": "6-5",
+    "weight": 275,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Cody",
+    "lastname": "Kanouse",
+    "position": "OL",
+    "school": "Peninsula",
+    "height": "6-7",
+    "weight": 290,
+    "chip": "White"
+  },
+  {
+    "firstname": "Leighton",
+    "lastname": "Winterhawk",
+    "position": "OL/DL",
+    "school": "Ferndale",
+    "height": "6-3",
+    "weight": 256,
+    "chip": "White"
+  },
+  {
+    "firstname": "Josh",
+    "lastname": "Johnston",
+    "position": "WR/DB",
+    "school": "Snohomish",
+    "height": "6-2",
+    "weight": 185,
+    "chip": "White"
+  },
+  {
+    "firstname": "Jack",
+    "lastname": "Van Dyke",
+    "position": "K",
+    "school": "King's",
+    "height": "6-1",
+    "weight": 175,
+    "chip": "White"
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kuhn",
+    "position": "WR/DB",
+    "school": "Selah",
+    "height": "6-4",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Kolby",
+    "lastname": "Swift",
+    "position": "LB",
+    "school": "Prosser",
+    "height": "6-0",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Andrew",
+    "lastname": "Boston",
+    "position": "WR",
+    "school": "Emerald Ridge",
+    "height": "6-3",
+    "weight": 180,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Marques",
+    "lastname": "Hampton Jr,",
+    "position": "WR",
+    "school": "Steilacoom",
+    "height": "5-11",
+    "weight": 188,
+    "commitment": "Eastern Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Moore",
+    "position": "QB",
+    "school": "Bellarmine Prep",
+    "height": "6-5",
+    "weight": 212,
+    "commitment": "Central Washington",
+    "chip": "White"
+  },
+  {
+    "firstname": "John",
+    "lastname": "Blasco Jr.",
+    "position": "OL",
+    "school": "Stadium",
+    "height": "6-5",
+    "weight": 316,
+    "commitment": "Colorado State",
+    "chip": "White"
+  },
+  {
+    "firstname": "Anthony",
+    "lastname": "Leiato",
+    "position": "DB",
+    "school": "Steilacoom",
+    "height": "6-0",
+    "weight": 175,
+    "commitment": " ",
+    "chip": "White"
+  },
+  {
+    "firstname": "Frederick",
+    "lastname": "Cooper",
+    "position": "RB",
+    "school": "O'Dea",
+    "height": "6-0",
+    "weight": 200,
+    "chip": "White"
+  },
+  {
+    "firstname": "Caleb",
+    "lastname": "Weber",
+    "position": "LB",
+    "school": "Chiawana",
+    "height": "6-2",
+    "weight": 228,
+    "chip": "White"
+  },
+  {
+    "firstname": "Tre'vonne",
+    "lastname": "Dorfner",
+    "position": "RB/DB",
+    "school": "River Ridge",
+    "height": "5-11",
+    "weight": 180,
+    "commitment": "Wyoming",
+    "chip": "White"
+  },
+  {
+    "firstname": "Armani",
+    "lastname": "Marsh",
+    "position": "CB",
+    "school": "Gonzaga Prep",
+    "height": "5-8",
+    "weight": 176,
+    "chip": "White"
+  },
+  {
+    "firstname": "Skyler",
+    "lastname": "Martin",
+    "position": "DE",
+    "school": "Skyview",
+    "height": "6-5",
+    "weight": 235,
+    "commitment": "Montana",
+    "chip": "White"
+  },
+  {
+    "firstname": "Kaden",
+    "lastname": "Jenks",
+    "position": "QB",
+    "school": "Royal",
+    "height": "6-2",
+    "weight": 208,
+    "chip": "White"
+  },
+  {
+    "firstname": "Auston",
+    "lastname": "Downs",
+    "position": "OL",
+    "school": "Moses Lake",
+    "height": "6-3",
+    "weight": 274,
+    "chip": "White"
   }
 ]
