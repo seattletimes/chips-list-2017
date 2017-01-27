@@ -7,7 +7,8 @@
     "height": "6-7",
     "weight": 310,
     "commitment": "Stanford",
-    "chip": "Blue"
+    "chip": "Blue",
+    "comment": "Five-star recruit was U.S. Army All-American and is regarded as the top overall lineman in the country. He’s a premier blocker who’s already pegged to play in the NFL."
   },
   {
     "firstname": "Hunter",
@@ -17,7 +18,8 @@
     "height": "6-3",
     "weight": 230,
     "commitment": "Washington",
-    "chip": "Blue"
+    "chip": "Blue",
+    "comment": "Selected the co-offensive MVP for the Metro League’s Mountain Division. Bryant, who signed to play at Washington, averaged 18-yards per catch and scored 10 touchdowns to help the Crusaders reach the Class 3A state semifinals."
   },
   {
     "firstname": "Connor",
@@ -26,7 +28,8 @@
     "school": "Sumner",
     "height": "6-0",
     "weight": 190,
-    "chip": "Blue"
+    "chip": "Blue",
+    "comment": "Four-star recruit had 2,048 all-purpose yards with 19 rushing touchdowns and three receiving touchdowns. Missed team’s Class 4A run to state semifinals due to separated right shoulder."
   },
   {
     "firstname": "Henry",
@@ -36,7 +39,8 @@
     "height": "6-6",
     "weight": 295,
     "commitment": "Washington",
-    "chip": "Blue"
+    "chip": "Blue",
+    "comment": "The Washington commit was named KingCo 4A Lineman of the Year. He totaled seven sacks this season to help the Spartans reach the state tournament quarterfinals."
   },
   {
     "firstname": "Salvon",
@@ -46,7 +50,8 @@
     "height": "5-11",
     "weight": 186,
     "commitment": "Washington",
-    "chip": "Blue"
+    "chip": "Blue",
+    "comment": "The UW commit was limited to six games due to a hand injury and still finished with 1,300 rushing yards with 13 touchdowns. He was a U.S. Army All-American."
   },
   {
     "firstname": "Abraham",
