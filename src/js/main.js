@@ -5,7 +5,7 @@ require("./lib/ads");
 require("component-responsive-frame/child");
 require("angular");
 
-var app = angular.module("chips-list", []);
+var app = angular.module("chips-list-2017", []);
 
 app.controller("ChipsController", ["$scope", function($scope) {
   $scope.recruits = chipsData;
