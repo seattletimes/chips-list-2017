@@ -1,6 +1,6 @@
 [
   {
-    "firstname": "Foster",
+    "Firstname": "Foster",
     "lastname": "Sarell",
     "position": "OL",
     "school": "Graham-Kapowsin",
@@ -11,7 +11,7 @@
     "comment": "Five-star recruit was U.S. Army All-American and is regarded as the top overall lineman in the country. He’s a premier blocker who’s already pegged to play in the NFL."
   },
   {
-    "firstname": "Hunter",
+    "Firstname": "Hunter",
     "lastname": "Bryant",
     "position": "TE",
     "school": "Eastside Catholic",
@@ -22,7 +22,7 @@
     "comment": "Selected the co-offensive MVP for the Metro League’s Mountain Division. Bryant, who signed to play at Washington, averaged 18-yards per catch and scored 10 touchdowns to help the Crusaders reach the Class 3A state semifinals."
   },
   {
-    "firstname": "Connor",
+    "Firstname": "Connor",
     "lastname": "Wedington",
     "position": "RB",
     "school": "Sumner",
@@ -32,7 +32,7 @@
     "comment": "Four-star recruit had 2,048 all-purpose yards with 19 rushing touchdowns and three receiving touchdowns. Missed team’s Class 4A run to state semifinals due to separated right shoulder."
   },
   {
-    "firstname": "Henry",
+    "Firstname": "Henry",
     "lastname": "Bainivalu",
     "position": "OL",
     "school": "Skyline",
@@ -43,7 +43,7 @@
     "comment": "The Washington commit was named KingCo 4A Lineman of the Year. He totaled seven sacks this season to help the Spartans reach the state tournament quarterfinals."
   },
   {
-    "firstname": "Salvon",
+    "Firstname": "Salvon",
     "lastname": "Ahmed",
     "position": "RB/DB",
     "school": "Juanita",
@@ -54,7 +54,7 @@
     "comment": "The UW commit was limited to six games due to a hand injury and still finished with 1,300 rushing yards with 13 touchdowns. He was a U.S. Army All-American."
   },
   {
-    "firstname": "Abraham",
+    "Firstname": "Abraham",
     "lastname": "Lucas",
     "position": "OL",
     "school": "Archbishop Murphy",
@@ -64,7 +64,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Quazzel",
+    "Firstname": "Quazzel",
     "lastname": "White",
     "position": "OL",
     "school": "Lincoln",
@@ -74,7 +74,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Joe",
+    "Firstname": "Joe",
     "lastname": "Tryon",
     "position": "DE",
     "school": "Hazen",
@@ -84,7 +84,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Cade",
+    "Firstname": "Cade",
     "lastname": "Otton",
     "position": "TE",
     "school": "Tumwater",
@@ -94,7 +94,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Ryan",
+    "Firstname": "Ryan",
     "lastname": "Rehkow",
     "position": "P",
     "school": "Central Valley",
@@ -104,7 +104,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Anfernee",
+    "Firstname": "Anfernee",
     "lastname": "Gurley",
     "position": "DB",
     "school": "Archbishop Murphy",
@@ -114,7 +114,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Jesus",
+    "Firstname": "Jesus",
     "lastname": "Echevarria",
     "position": "DT",
     "school": "Archbishop Murphy",
@@ -123,7 +123,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Dontae",
+    "Firstname": "Dontae",
     "lastname": "Powell",
     "position": "OL",
     "school": "Richland",
@@ -133,17 +133,17 @@
     "chip": "Red"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Moos",
     "position": "TE/DE",
     "school": "Pullman",
     "height": "6-4",
     "weight": 243,
-    "commitment": "Utah",
+    "commitment": " ",
     "chip": "Red"
   },
   {
-    "firstname": "Ali",
+    "Firstname": "Ali",
     "lastname": "Gaye",
     "position": "DE",
     "school": "Edmonds-Woodway",
@@ -153,7 +153,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Kelle",
+    "Firstname": "Kelle",
     "lastname": "Sanders",
     "position": "DE",
     "school": "River Ridge",
@@ -163,7 +163,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Brock",
+    "Firstname": "Brock",
     "lastname": "Wellsfry",
     "position": "DL",
     "school": "Hanford",
@@ -173,7 +173,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Jackson",
+    "Firstname": "Jackson",
     "lastname": "Yost",
     "position": "DL/OL",
     "school": "Archbishop Murphy",
@@ -183,7 +183,7 @@
     "chip": "Red"
   },
   {
-    "firstname": "Caleb",
+    "Firstname": "Caleb",
     "lastname": "Perry",
     "position": "RB/CB",
     "school": "King's",
@@ -193,7 +193,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Jack",
+    "Firstname": "Jack",
     "lastname": "Colletto",
     "position": "QB",
     "school": "Camas",
@@ -202,7 +202,7 @@
     "chip": "White"
   },
   {
-    "firstname": "JJ",
+    "Firstname": "JJ",
     "lastname": "Jerome",
     "position": "RB ",
     "school": "Monroe",
@@ -211,7 +211,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Brody",
+    "Firstname": "Brody",
     "lastname": "McKnight",
     "position": "OL",
     "school": "Eastside Catholic",
@@ -221,7 +221,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Brigham",
+    "Firstname": "Brigham",
     "lastname": "Whitby",
     "position": "DT",
     "school": "Richland",
@@ -230,7 +230,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Doug",
+    "Firstname": "Doug",
     "lastname": "Russell",
     "position": "DT",
     "school": "O'Dea",
@@ -239,17 +239,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Michael",
-    "lastname": "Matthews",
-    "position": "LB",
-    "school": "Camas",
-    "height": "6-2",
-    "weight": 205,
-    "commitment": "Montana",
+    "Firstname": "Joe",
+    "lastname": "Nelson",
+    "position": "WR",
+    "school": "Issaquah",
+    "height": "6-3",
+    "weight": 185,
+    "commitment": " ",
     "chip": "White"
   },
   {
-    "firstname": "Darreon",
+    "Firstname": "Darreon",
     "lastname": "Moore",
     "position": "DB",
     "school": "Kamiakin",
@@ -259,7 +259,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Mack",
+    "Firstname": "Mack",
     "lastname": "Minnehan",
     "position": "DB",
     "school": "Woodinville",
@@ -268,7 +268,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Ryan",
+    "Firstname": "Ryan",
     "lastname": "Henderson",
     "position": "K",
     "school": "Archbishop Murphy",
@@ -277,7 +277,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Derek",
+    "Firstname": "Derek",
     "lastname": "Beers",
     "position": "OL",
     "school": "Woodinville",
@@ -286,7 +286,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Zach",
+    "Firstname": "Zach",
     "lastname": "England",
     "position": "OL",
     "school": "Bellevue",
@@ -295,7 +295,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Gaoteote",
     "position": "P",
     "school": "Kennedy Catholic",
@@ -304,7 +304,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Windy",
+    "Firstname": "Windy",
     "lastname": "Isaia",
     "position": "DL",
     "school": "Mariner",
@@ -314,7 +314,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Brandon",
+    "Firstname": "Brandon",
     "lastname": "Kelly",
     "position": "DL",
     "school": "Kentlake",
@@ -323,7 +323,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Hunter",
+    "Firstname": "Hunter",
     "lastname": "Franco",
     "position": "LB",
     "school": "O'Dea",
@@ -332,25 +332,27 @@
     "chip": "White"
   },
   {
-    "firstname": "Dean",
+    "Firstname": "Dean",
     "lastname": "Sise",
     "position": "LB",
     "school": "Juanita",
     "height": "6-2",
     "weight": 185,
+    "commitment": "Navy",
     "chip": "White"
   },
   {
-    "firstname": "Alex",
+    "Firstname": "Alex",
     "lastname": "Diegel",
     "position": "LB",
     "school": "Skyline",
     "height": "6-2",
     "weight": 210,
+    "commitment": "Central Washington",
     "chip": "White"
   },
   {
-    "firstname": "Bradley",
+    "Firstname": "Bradley",
     "lastname": "Kim",
     "position": "DB",
     "school": "Skyline",
@@ -360,7 +362,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Hunter",
+    "Firstname": "Hunter",
     "lastname": "Eckstrom",
     "position": "WR",
     "school": "Lake Stevens",
@@ -370,7 +372,7 @@
     "chip": "White"
   },
   {
-    "firstname": "JJ",
+    "Firstname": "JJ",
     "lastname": "Young",
     "position": "ATH",
     "school": "Mount Rainier",
@@ -379,25 +381,27 @@
     "chip": "White"
   },
   {
-    "firstname": "Bennett",
+    "Firstname": "Bennett",
     "lastname": "Dondoyano",
     "position": "WR/CB",
     "school": "Lakeside",
     "height": "5-11",
     "weight": 175,
+    "commitment": "San Diego",
     "chip": "White"
   },
   {
-    "firstname": "Zander",
+    "Firstname": "Zander",
     "lastname": "Bailey",
     "position": "WR/LB",
     "school": "Lakeside",
     "height": "6-1",
     "weight": 210,
+    "commitment": "Middlebury",
     "chip": "White"
   },
   {
-    "firstname": "Jared",
+    "Firstname": "Jared",
     "lastname": "Thurber",
     "position": "WR",
     "school": "Kennedy Catholic",
@@ -406,16 +410,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Trevor",
+    "Firstname": "Trevor",
     "lastname": "Hoffman",
     "position": "WR/LB",
     "school": "Kennedy Catholic",
     "height": "6-4",
     "weight": 187,
+    "commitment": "Montana Tech",
     "chip": "White"
   },
   {
-    "firstname": "Collin",
+    "Firstname": "Collin",
     "lastname": "Montez",
     "position": "RB/DB",
     "school": "Archbishop Murphy",
@@ -425,7 +430,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Connor",
+    "Firstname": "Connor",
     "lastname": "Johnson",
     "position": "QB",
     "school": "Archbishop Murphy",
@@ -434,7 +439,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Markus",
+    "Firstname": "Markus",
     "lastname": "Sullivan",
     "position": "LB",
     "school": "Jackson",
@@ -444,7 +449,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Princeton",
+    "Firstname": "Princeton",
     "lastname": "Lollar",
     "position": "FB",
     "school": "Oak Harbor",
@@ -454,16 +459,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Matt",
+    "Firstname": "Matt",
     "lastname": "Shook",
     "position": "OT",
     "school": "Graham-Kapowsin",
     "height": "6-4",
     "weight": 270,
+    "commitment": "Eastern Washington",
     "chip": "White"
   },
   {
-    "firstname": "Tonny",
+    "Firstname": "Tonny",
     "lastname": "Esquivel",
     "position": "RB/DB",
     "school": "Wenatchee",
@@ -472,7 +478,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Brian",
+    "Firstname": "Brian",
     "lastname": "Greene",
     "position": "OL",
     "school": "Eisenhower",
@@ -481,7 +487,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Metsker",
     "position": "SS",
     "school": "Woodinville",
@@ -490,7 +496,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Michael",
+    "Firstname": "Michael",
     "lastname": "Roth",
     "position": "ATH",
     "school": "Woodinville",
@@ -499,7 +505,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Michael",
+    "Firstname": "Michael",
     "lastname": "Matthews",
     "position": "LB",
     "school": "Camas",
@@ -509,7 +515,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Howard",
     "position": "QB",
     "school": "Eastlake",
@@ -518,7 +524,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Eddie",
+    "Firstname": "Eddie",
     "lastname": "Edwards IV",
     "position": "KR",
     "school": "Kentlake",
@@ -527,7 +533,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Christian",
+    "Firstname": "Christian",
     "lastname": "Duenas-Palaitia",
     "position": "OL",
     "school": "Kentwood",
@@ -536,7 +542,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Devin",
+    "Firstname": "Devin",
     "lastname": "Ridge",
     "position": "LB",
     "school": "Kentwood",
@@ -545,7 +551,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Lincoln",
+    "Firstname": "Lincoln",
     "lastname": "Liulama-Mitchell",
     "position": "WR/DE",
     "school": "Todd Beamer",
@@ -554,7 +560,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Scott",
+    "Firstname": "Scott",
     "lastname": "Gunther",
     "position": "RB/CB",
     "school": "Olympia",
@@ -563,7 +569,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Nathaniel",
+    "Firstname": "Nathaniel",
     "lastname": "Holcomb",
     "position": "QB",
     "school": "Puyallup",
@@ -572,7 +578,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Malakai",
+    "Firstname": "Malakai",
     "lastname": "Fifita",
     "position": "DL/OL",
     "school": "Glacier Peak",
@@ -582,7 +588,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Joe",
+    "Firstname": "Joe",
     "lastname": "Kamp",
     "position": "DE",
     "school": "Kamiakin",
@@ -591,7 +597,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Terrance",
+    "Firstname": "Terrance",
     "lastname": "Bloss",
     "position": "TE/LB",
     "school": "Cascade",
@@ -600,7 +606,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Andre",
+    "Firstname": "Andre",
     "lastname": "Scheer",
     "position": "QB/LB",
     "school": "Mountain View",
@@ -609,7 +615,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Colton",
+    "Firstname": "Colton",
     "lastname": "Johnson",
     "position": "OL/DL",
     "school": "Kelso",
@@ -618,7 +624,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Naoki",
+    "Firstname": "Naoki",
     "lastname": "Harmer",
     "position": "WR/S",
     "school": "Interlake",
@@ -627,7 +633,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Caleb",
+    "Firstname": "Caleb",
     "lastname": "Davis",
     "position": "OL/DL",
     "school": "Bonney Lake",
@@ -636,7 +642,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Joey",
+    "Firstname": "Joey",
     "lastname": "Sinclair",
     "position": "QB",
     "school": "Lincoln",
@@ -645,7 +651,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Amir",
+    "Firstname": "Amir",
     "lastname": "Matheney",
     "position": "DT",
     "school": "Olympia",
@@ -655,7 +661,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Caleb",
+    "Firstname": "Caleb",
     "lastname": "Lindsay",
     "position": "LB/TE",
     "school": "Lakes",
@@ -665,16 +671,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Daeon",
+    "Firstname": "Daeon",
     "lastname": "Hudson",
     "position": "LB/RB",
     "school": "Lakes",
     "height": "6-0",
     "weight": 201,
+    "commitment": "Central Washington",
     "chip": "White"
   },
   {
-    "firstname": "Hunter",
+    "Firstname": "Hunter",
     "lastname": "Haskins",
     "position": "WR/S",
     "school": "Bonney Lake",
@@ -683,7 +690,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Jason",
+    "Firstname": "Jamon",
     "lastname": "Chambers",
     "position": "RB",
     "school": "Stadium",
@@ -693,7 +700,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Anthony",
+    "Firstname": "Anthony",
     "lastname": "Hathaway",
     "position": "RB/LB",
     "school": "Timberline",
@@ -702,7 +709,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Kenny",
+    "Firstname": "Kenny",
     "lastname": "Easton",
     "position": "RB/LB",
     "school": "Peninsula",
@@ -711,16 +718,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Blake",
+    "Firstname": "Blake",
     "lastname": "Cantu",
     "position": "RB/SS",
     "school": "Peninsula",
     "height": "6-1",
     "weight": 195,
+    "commitment": "Central Washington",
     "chip": "White"
   },
   {
-    "firstname": "David",
+    "Firstname": "David",
     "lastname": "Ainuu",
     "position": "OL/DL",
     "school": "Capital",
@@ -729,7 +737,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Broselle",
     "position": "LB",
     "school": "Ferndale",
@@ -738,7 +746,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Justice",
+    "Firstname": "Justice",
     "lastname": "Powell",
     "position": "DB/RB",
     "school": "Ferndale",
@@ -747,16 +755,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Ben",
+    "Firstname": "Ben",
     "lastname": "Peterson",
     "position": "SS",
     "school": "Squalicum",
     "height": "5-9",
     "weight": 171,
+    "commitment": "Air Force",
     "chip": "White"
   },
   {
-    "firstname": "Damek",
+    "Firstname": "Damek",
     "lastname": "Mitchell",
     "position": "RB",
     "school": "Squalicum",
@@ -765,7 +774,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Wyatt",
+    "Firstname": "Wyatt",
     "lastname": "Musser",
     "position": "OL",
     "school": "Kamiakin",
@@ -775,7 +784,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Cody",
+    "Firstname": "Cody",
     "lastname": "Kanouse",
     "position": "OL",
     "school": "Peninsula",
@@ -784,7 +793,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Leighton",
+    "Firstname": "Leighton",
     "lastname": "Winterhawk",
     "position": "OL/DL",
     "school": "Ferndale",
@@ -793,7 +802,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Josh",
+    "Firstname": "Josh",
     "lastname": "Johnston",
     "position": "WR/DB",
     "school": "Snohomish",
@@ -802,7 +811,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Jack",
+    "Firstname": "Jack",
     "lastname": "Van Dyke",
     "position": "K",
     "school": "King's",
@@ -811,7 +820,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Peter",
+    "Firstname": "Peter",
     "lastname": "Kuhn",
     "position": "WR/DB",
     "school": "Selah",
@@ -820,7 +829,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Kolby",
+    "Firstname": "Kolby",
     "lastname": "Swift",
     "position": "LB",
     "school": "Prosser",
@@ -829,7 +838,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Andrew",
+    "Firstname": "Andrew",
     "lastname": "Boston",
     "position": "WR",
     "school": "Emerald Ridge",
@@ -839,7 +848,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Marques",
+    "Firstname": "Marques",
     "lastname": "Hampton Jr,",
     "position": "WR",
     "school": "Steilacoom",
@@ -849,7 +858,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Christian",
+    "Firstname": "Christian",
     "lastname": "Moore",
     "position": "QB",
     "school": "Bellarmine Prep",
@@ -859,7 +868,7 @@
     "chip": "White"
   },
   {
-    "firstname": "John",
+    "Firstname": "John",
     "lastname": "Blasco Jr.",
     "position": "OL",
     "school": "Stadium",
@@ -869,7 +878,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Anthony",
+    "Firstname": "Anthony",
     "lastname": "Leiato",
     "position": "DB",
     "school": "Steilacoom",
@@ -879,7 +888,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Frederick",
+    "Firstname": "Frederick",
     "lastname": "Cooper",
     "position": "RB",
     "school": "O'Dea",
@@ -888,7 +897,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Caleb",
+    "Firstname": "Caleb",
     "lastname": "Weber",
     "position": "LB",
     "school": "Chiawana",
@@ -897,7 +906,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Tre'vonne",
+    "Firstname": "Tre'vonne",
     "lastname": "Dorfner",
     "position": "RB/DB",
     "school": "River Ridge",
@@ -907,7 +916,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Armani",
+    "Firstname": "Armani",
     "lastname": "Marsh",
     "position": "CB",
     "school": "Gonzaga Prep",
@@ -916,7 +925,7 @@
     "chip": "White"
   },
   {
-    "firstname": "Skyler",
+    "Firstname": "Skyler",
     "lastname": "Martin",
     "position": "DE",
     "school": "Skyview",
@@ -926,16 +935,17 @@
     "chip": "White"
   },
   {
-    "firstname": "Kaden",
+    "Firstname": "Kaden",
     "lastname": "Jenks",
     "position": "QB",
     "school": "Royal",
     "height": "6-2",
     "weight": 208,
+    "commitment": "Weber State",
     "chip": "White"
   },
   {
-    "firstname": "Auston",
+    "Firstname": "Auston",
     "lastname": "Downs",
     "position": "OL",
     "school": "Moses Lake",
